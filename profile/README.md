@@ -12,4 +12,4 @@ Here's how to get started:
 - 👩‍💻 Check out the [documentation](https://www.openms.de/documentation).
 - 🙋‍♀️ Come and say hi on our [Discord](https://discord.gg/wcWETcAkvS)!
 - 🍿 Tune in for news about developer/user meetings and events, get involved!
-- 🌈 Please abide by our community code of conduct
+- 🌈 Please abide by [our community code of conduct](https://github.com/OpenMS/OpenMS/blob/develop/CODE_OF_CONDUCT.md)
