@@ -10,6 +10,6 @@ Here's how to get started:
 
 - 📚 Browse through the main library code under OpenMS/OpenMS
 - 👩‍💻 Check out the [documentation](https://www.openms.de/documentation).
-- 🙋‍♀️ Come and say hi on our [Discord](https://discord.gg/5bcAQ4xK)!
+- 🙋‍♀️ Come and say hi on our [Discord](https://discord.gg/wcWETcAkvS)!
 - 🍿 Tune in for news about developer/user meetings and events, get involved!
 - 🌈 Please abide by our community code of conduct
