@@ -13,3 +13,11 @@ Here's how to get started:
 - 🙋‍♀️ Come and say hi on our [Discord](https://discord.gg/wcWETcAkvS)!
 - 🍿 Tune in for news about developer/user meetings and events, get involved!
 - 🌈 Please abide by [our community code of conduct](https://github.com/OpenMS/OpenMS/blob/develop/CODE_OF_CONDUCT.md)
+
+## All Jobs Status
+
+| Repository | Status |
+| ------------- | ------------- |
+| OpenMS | ![workflow](https://github.com/OpenMS/OpenMS/actions/workflows/openms-ci.yml/badge.svg)<br>![workflow](https://github.com/OpenMS/OpenMS/actions/workflows/dockerdeploy.yml/badge.svg?branch=nightly)<br>![workflow](https://github.com/OpenMS/OpenMS/actions/workflows/pyopenms-wheels.yml/badge.svg?branch=nightly)|
+| pyOpenMS | ![workflow](https://github.com/OpenMS/pyopenms-docs/actions/workflows/test-notebooks.yml/badge.svg)<br>![workflow](https://github.com/OpenMS/pyopenms-docs/actions/workflows/build-openms.yaml/badge.svg) |
+| openms.de | ![workflow](https://github.com/OpenMS/openms.de/actions/workflows/gh-pages.yml/badge.svg?branch=main) |
