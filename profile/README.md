@@ -18,7 +18,9 @@ Here's how to get started:
 
 | Repository | Status |
 | ------------- | ------------- |
-| OpenMS | [![workflow](https://github.com/OpenMS/OpenMS/actions/workflows/openms-ci.yml/badge.svg)](https://github.com/OpenMS/OpenMS/actions/workflows/openms-ci.yml)<br>[![workflow](https://github.com/OpenMS/OpenMS/actions/workflows/containerdeploy.yml/badge.svg?branch=nightly)](https://github.com/OpenMS/OpenMS/actions/workflows/containerdeploy.yml)<br>[![workflow](https://github.com/OpenMS/OpenMS/actions/workflows/pyopenms-wheels.yml/badge.svg?branch=nightly)](https://github.com/OpenMS/OpenMS/actions/workflows/pyopenms-wheels.yml)|
+| OpenMS | [![Nightly ](https://github.com/OpenMS/OpenMS/actions/workflows/openms_ci_matrix_full.yml/badge.svg?branch=nightly)](https://github.com/OpenMS/OpenMS/actions/workflows/openms_ci_matrix_full.yml?query=branch%3Anightly)<br>[![workflow](https://github.com/OpenMS/OpenMS/actions/workflows/containerdeploy.yml/badge.svg?branch=nightly)](https://github.com/OpenMS/OpenMS/actions/workflows/containerdeploy.yml)<br>[![workflow](https://github.com/OpenMS/OpenMS/actions/workflows/pyopenms-wheels.yml/badge.svg?branch=nightly)](https://github.com/OpenMS/OpenMS/actions/workflows/pyopenms-wheels.yml)|
 | pyOpenMS | [![workflow](https://github.com/OpenMS/pyopenms-docs/actions/workflows/test-notebooks.yml/badge.svg)](https://github.com/OpenMS/pyopenms-docs/actions/workflows/test-notebooks.yml)<br>[![Building latest jupyter Notebooks and push to master+ipynb](https://github.com/OpenMS/pyopenms-docs/actions/workflows/build-push-notebooks.yaml/badge.svg)](https://github.com/OpenMS/pyopenms-docs/actions/workflows/build-push-notebooks.yaml)<br>[![Build and Test code in notebooks](https://github.com/OpenMS/pyopenms-docs/actions/workflows/test-pr.yaml/badge.svg)](https://github.com/OpenMS/pyopenms-docs/actions/workflows/test-pr.yaml)|
 | openms.de | [![Netlify Status](https://api.netlify.com/api/v1/badges/27d12e04-2f3d-4b06-b08c-106244fd37e2/deploy-status)](https://app.netlify.com/sites/openms/deploys) |
 | CDash (external server) | [build status](https://cdash.openms.de/index.php?project=OpenMS) |
+
+
