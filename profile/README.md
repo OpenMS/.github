@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OpenMS/images/master/logos/FinalLogo_Nov2024_Versions-01.svg" data-canonical-src="https://github.com/OpenMS/images/blob/master/logos/FinalLogo_Nov2024_Versions-01.svg?raw=true" width="500" height="350" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OpenMS/images/master/logos/FinalLogo_Nov2024_Versions-02.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenMS/images/master/logos/FinalLogo_Nov2024_Versions-01.svg">
+</picture>
 
 # Welcome to @OpenMS!
 
