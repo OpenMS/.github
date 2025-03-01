@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OpenMS/images/master/logos/OpenMS_transparent_background.png" data-canonical-src="https://github.com/OpenMS/images/blob/master/logos/OpenMS_transparent_background.png?raw=true" width="500" height="350" />
+  <img src="https://raw.githubusercontent.com/OpenMS/images/master/logos/FinalLogo_Nov2024_Versions-01.svg" data-canonical-src="https://github.com/OpenMS/images/blob/master/logos/FinalLogo_Nov2024_Versions-01.svg?raw=true" width="500" height="350" />
 </p>
 
 # Welcome to @OpenMS!
