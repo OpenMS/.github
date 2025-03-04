@@ -1,8 +1,10 @@
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OpenMS/images/master/logos/FinalLogo_Nov2024_Versions-02.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OpenMS/images/master/logos/FinalLogo_Nov2024_Versions-01.svg"/>
+  <source media="(prefers-color-scheme: dark)" height="400" width="600" srcset="https://raw.githubusercontent.com/OpenMS/images/master/logos/FinalLogo_Nov2024_Versions-02.svg"/>
+  <source media="(prefers-color-scheme: light)" height="400" width="600" srcset="https://raw.githubusercontent.com/OpenMS/images/master/logos/FinalLogo_Nov2024_Versions-01.svg"/>
   <img src="https://raw.githubusercontent.com/OpenMS/images/master/logos/FinalLogo_Nov2024_Versions-01.svg"/>
 </picture>
+</p>
 
 # Welcome to @OpenMS!
 
